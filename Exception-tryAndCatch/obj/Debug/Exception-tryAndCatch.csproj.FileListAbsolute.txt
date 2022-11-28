@@ -1,0 +1,8 @@
+C:\Users\97252\source\repos\Exception-tryAndCatch\Exception-tryAndCatch\bin\Debug\Exception-tryAndCatch.exe.config
+C:\Users\97252\source\repos\Exception-tryAndCatch\Exception-tryAndCatch\bin\Debug\Exception-tryAndCatch.exe
+C:\Users\97252\source\repos\Exception-tryAndCatch\Exception-tryAndCatch\bin\Debug\Exception-tryAndCatch.pdb
+C:\Users\97252\source\repos\Exception-tryAndCatch\Exception-tryAndCatch\obj\Debug\Exception-tryAndCatch.csproj.AssemblyReference.cache
+C:\Users\97252\source\repos\Exception-tryAndCatch\Exception-tryAndCatch\obj\Debug\Exception-tryAndCatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\97252\source\repos\Exception-tryAndCatch\Exception-tryAndCatch\obj\Debug\Exception-tryAndCatch.csproj.CoreCompileInputs.cache
+C:\Users\97252\source\repos\Exception-tryAndCatch\Exception-tryAndCatch\obj\Debug\Exception-tryAndCatch.exe
+C:\Users\97252\source\repos\Exception-tryAndCatch\Exception-tryAndCatch\obj\Debug\Exception-tryAndCatch.pdb
